@@ -11,11 +11,11 @@ A shell script that uses the cowsay package to do funny things:
 Command | Feature
 ------------ | -------------
 install | Install the dependancies Cowjak needs to work, you must have these installed before you can talk to Cowjak
- norris | Cowjak will say a Chuck Norris joke. Courtesey of http://api.icndb.com/jokes/random
+norris | Cowjak will say a Chuck Norris joke. Courtesey of http://api.icndb.com/jokes/random
 fortune | Cowjak will give you your fortune, don't expect your fortunes to be good though
-     id | Let Cowjak create your undercover identity, useful in hostile environments
- insult | Cowjak will insult thou in a Shakesperian manner. Courtesey of http://www.pangloss.com/seidel/Shaker/index.html?
-   help | Takes you to the help page, what you're looking at right now
+id | Let Cowjak create your undercover identity, useful in hostile environments
+insult | Cowjak will insult thou in a Shakesperian manner. Courtesey of http://www.pangloss.com/seidel/Shaker/index.html?
+help | Takes you to the help page, what you're looking at right now
 
 *Mathematics*
 
